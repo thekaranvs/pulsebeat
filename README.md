@@ -12,3 +12,5 @@ The program is robust and resilient to operational errors and adjusts automatica
 - Supports changing orientation of display with single touch
 - Intelligent peak detection using sliding-window approach
 - Smiley/Sad face based on readings
+
+Collaborators: Shyama, Rachel, Vivian, Vanie
